@@ -2,6 +2,9 @@
 
 A modern, professional desktop application built to visualize Python code compilation, execution, and output in real-time. Designed with a sleek, dark-themed UI reminiscent of professional IDEs like VS Code.
 
+<img width="1888" height="707" alt="image" src="https://github.com/user-attachments/assets/ef1d62a0-84bd-4194-803b-6b8e92997724" />
+
+
 ## 🌟 Features
 - **Modern UI/UX:** Built with `customtkinter` for a beautiful, dark-mode first design with flat, borderless tabs.
 - **Smart File Management:** Complete file tracking with `New`, `Open`, `Save`, and `Save As` functionality.
