@@ -1,4 +1,4 @@
-# Python Compiler Visualizer 🚀
+# Python Compiler Visualizer
 
 A modern, professional desktop application built to visualize Python code compilation, execution, and output in real-time. Designed with a sleek, dark-themed UI reminiscent of professional IDEs like VS Code.
 
@@ -35,4 +35,4 @@ A modern, professional desktop application built to visualize Python code compil
 Don't want to install Python? You can directly download the standalone Windows executable:
 1. Go to the **Releases** section on the right side of this GitHub page.
 2. Download `Python Compiler Visualizer.exe`.
-3. Double-click and run! *(Note: If Windows SmartScreen warns you, click "More Info" -> "Run anyway")*.
+3. Double-click and run!
